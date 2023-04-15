@@ -18,7 +18,7 @@ This Python script helps you to easily scrape and check HTTP proxies for your we
 👨‍💻 How to Use:
 
 1. Clone the repository and install the required packages using pip
-2. Run the proxy_checker.py file using the command "python proxy_checker.py"
+2. Run the both.py  file using the command "python both.py"
 3. Choose option 1 to scrape HTTP proxies from https://api.proxyscrape.com/v2/
 4. Choose option 2 to check the availability and anonymity of the scraped proxies
 4. Enter the desired timeout for the proxy check (default is 5 seconds)
